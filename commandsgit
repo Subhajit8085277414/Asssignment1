@@ -1,0 +1,28 @@
+			GIT COMMANDS
+
+1)git clone : create a copy of existing repository in the local machine
+2)git add : Add file to staging area
+3)git add *: Add all files to staging area
+4)git commit -m "message":commit changes to the local repository
+5)git push origin master :Send changes to the master branch of your remote repository
+6)git status :List the files you have changed and those you still need to add or commit
+7)git log:to get the logs of all commits
+8)git diff:to see what are the changes we have done in the file
+9)git pull:Fetch and merge changes on the remote server to your working directory
+10)git checkout <branchname>: to shift to a perticular branch
+11)git merge : to integrate changes from another branch
+
+                        VI COMMANDS
+:w  ->saves the file
+:wq ->saves the file and quit
+:q  ->quit without chaanging the file 
+:!q ->really quit w/o saving any changes
+i   -> for insert
+a   -> insert text after the cursor 
+I   ->insert text at the beg og the current line 
+o   ->open a line below current line and insert text
+x   ->delete one character
+tx  ->t is a noumber  and delete t characters
+J   ->joins the line below the current line with current line
+
+
