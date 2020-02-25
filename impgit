@@ -1,0 +1,16 @@
+git reset :to undo local changes with id
+
+git revert :to revert commits by using id
+
+
+git cherry-pick: to pick up commit using id and applyy it to current branch
+
+git rebase :to see your commit at the  top  by using git rebase master
+
+
+git merge vs rebase :to see your commit at the  top  by using git rebase master
+and  in the merge we have to search the commit we have done
+
+
+
+
