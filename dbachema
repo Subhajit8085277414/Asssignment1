@@ -1,0 +1,54 @@
+Application name :NGO Mamgement
+
+Volunteer
+
+Vid
+Vname
+Vage
+Occupation
+Address
+Gender
+
+User
+
+Uid
+Uname
+Uage
+Occupation
+Address
+Gender
+
+Hapiness Support
+H_id
+Time 
+Location
+Description
+Uid
+
+Money Support
+M_id
+Amount
+Details
+U_id
+
+Current_need
+C_id
+Name
+Qty
+
+Child
+CH_id
+Name 
+age 
+gender
+
+
+Necessity support
+
+Ne_id
+Name 
+qty
+
+
+
+
